@@ -1,0 +1,10 @@
+{
+    "name": "root/mvc",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SON\\": "src",
+            "App\\": "app"
+        }
+    }
+}
